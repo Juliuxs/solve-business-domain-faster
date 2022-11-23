@@ -6,7 +6,7 @@ The best line of code is the one we don't have to type or maintain (might be som
 
 ---
 
-## Lets try to build full-stack application with custom domain in one working session!
+## Lets try to build full-stack application with custom domain in one working session using platformatic!
 
 <br>
 
