@@ -1,8 +1,7 @@
 # The pareto principle
-
 >      The best line of code is the one we don't have to type or maintain.
 
----
+
 ![alt text](https://miro.medium.com/max/816/1*vb37xDKUHtvoSGHRIOGe_A.webp)
 ---
 
